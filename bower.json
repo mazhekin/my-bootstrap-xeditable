@@ -4,6 +4,10 @@
   "authors": [
     "Vasiliy Mazhekin <mazhekin@gmail.com>"
   ],
+  "main": [
+    "bootstrap-editable.js",
+    "bootstrap-editable.css"
+  ],
   "description": "In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery",
   "license": "MIT",
   "homepage": "http://vitalets.github.io/x-editable",
